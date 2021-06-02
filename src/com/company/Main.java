@@ -1,6 +1,10 @@
 package com.company;
 import java.util.*;
 
+/**
+ * Зачтено 02.06.2021
+ */
+
 public class Main {
 
     public static void main(String[] args) {
